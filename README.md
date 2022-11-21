@@ -1,4 +1,4 @@
-<img src ="" width="100" height="100" alt="제목을-입력해주세요_-001" src="https://user-images.githubusercontent.com/110071838/202991109-c52716b0-05c4-4e23-8981-110e176ef5e3.png">
+<img src ="" width="100px" height="100px" alt="제목을-입력해주세요_-001" src="https://user-images.githubusercontent.com/110071838/202991109-c52716b0-05c4-4e23-8981-110e176ef5e3.png">
 
 
 
