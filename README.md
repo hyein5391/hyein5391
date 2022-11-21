@@ -1,5 +1,6 @@
 <p align="center" style="...">
-  ![1](https://user-images.githubusercontent.com/110071838/202998496-f5f5bd65-813a-4e61-86c6-7cc87f1396dd.jpg)
+  <img width="167" alt="202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19_waifu2x_art_noise3_scale" src="https://user-images.githubusercontent.com/110071838/202999130-a9b9f4f3-757f-4a92-80c3-4c84331f0ff4.png">
+
 </p>
 
 
