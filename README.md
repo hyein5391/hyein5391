@@ -1,6 +1,7 @@
 <p align="center" style="...">
 </p>
-![202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19_waifu2x_art_noise3_scale](https://user-images.githubusercontent.com/110071838/202998327-60752773-6ee4-40ad-8e22-83af0104a477.png)
+
+![1](https://user-images.githubusercontent.com/110071838/202998496-f5f5bd65-813a-4e61-86c6-7cc87f1396dd.jpg)
 
 
 [![Solved.ac
