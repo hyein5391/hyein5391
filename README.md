@@ -1,8 +1,6 @@
 <p align="center" style="...">
-  ![202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19_waifu2x_art_noise3_scale](https://user-images.githubusercontent.com/110071838/202998288-42dc1f9e-e3e4-4293-842e-c064c593adf0.png)
-
-
 </p>
+![202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19_waifu2x_art_noise3_scale](https://user-images.githubusercontent.com/110071838/202998327-60752773-6ee4-40ad-8e22-83af0104a477.png)
 
 
 [![Solved.ac
