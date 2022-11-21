@@ -1,5 +1,5 @@
 <p align="center" style="...">
-  <img width="1000" height="500": alt="제목을-입력해주세요_-001" src="https://user-images.githubusercontent.com/110071838/202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19.png">
+  <img width="1000" height="800": alt="제목을-입력해주세요_-001" src="https://user-images.githubusercontent.com/110071838/202992519-89f55d31-2958-4c7b-98a7-0a784bcfcd19.png">
 </p>
 
 
