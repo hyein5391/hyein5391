@@ -1,5 +1,4 @@
 <p align="center" style="...">
-  
   ![1](https://user-images.githubusercontent.com/110071838/202998496-f5f5bd65-813a-4e61-86c6-7cc87f1396dd.jpg)
   
 </p>
